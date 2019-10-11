@@ -85,7 +85,7 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               : daehonai
+  username               : #
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -120,7 +120,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/DaeHoNai"
+      url: # 
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/daehwan.lee.10"
